@@ -9,23 +9,17 @@
 
 - Screenshot from Jenkins job for Running backup-s3upload.sh Script file.
 
-  ![A screenshot of a computer
-
-Description automatically generated](Aspose.Words.4dee77f0-fe85-45cc-95b4-2374ebc6f666.001.png)
+  ![A screenshot of a computer Description automatically generated](Aspose.Words.4dee77f0-fe85-45cc-95b4-2374ebc6f666.001.png)
 
 
 - Screenshot from Jenkins for Schedule backup of postgres Db to s3 bucket using Automation Script file. 
 
-  ![A screenshot of a computer
-
-Description automatically generated](Aspose.Words.4dee77f0-fe85-45cc-95b4-2374ebc6f666.002.png)
+  ![A screenshot of a computer Description automatically generated](Aspose.Words.4dee77f0-fe85-45cc-95b4-2374ebc6f666.002.png)
 
 
 - Screenshot from Aws S3 bucket of taken backups using Jenkins Job.
 
-  ![A screenshot of a computer
-
-Description automatically generated](Aspose.Words.4dee77f0-fe85-45cc-95b4-2374ebc6f666.003.png)
+  ![A screenshot of a computer Description automatically generated](Aspose.Words.4dee77f0-fe85-45cc-95b4-2374ebc6f666.003.png)
 
 
 
@@ -34,7 +28,7 @@ Description automatically generated](Aspose.Words.4dee77f0-fe85-45cc-95b4-2374eb
 
 - For Restoring Existing postgres Backup Db need to create a New Empty Repository by logging to Postgres .
 
-  ![](Aspose.Words.4dee77f0-fe85-45cc-95b4-2374ebc6f666.004.png)
+  ![A screenshot of a computer Description automatically generated](Aspose.Words.4dee77f0-fe85-45cc-95b4-2374ebc6f666.004.png)
 
 - Copy the Taken backup file to location and Now Restore the existing postgres backup Db to newly created empty Repository.
 
@@ -48,15 +42,11 @@ Description automatically generated](Aspose.Words.4dee77f0-fe85-45cc-95b4-2374eb
 
 - ` `Sample Screenshot of Restoring:
 
-  ![A screen shot of a computer code
-
-Description automatically generated](Aspose.Words.4dee77f0-fe85-45cc-95b4-2374ebc6f666.005.png)
+  ![A screen shot of a computer code Description automatically generated](Aspose.Words.4dee77f0-fe85-45cc-95b4-2374ebc6f666.005.png)
 
 - After successful Restore you may see in this way.
 
-![A screen shot of a computer code
-
-Description automatically generated](Aspose.Words.4dee77f0-fe85-45cc-95b4-2374ebc6f666.006.png)
+  ![A screen shot of a computer code Description automatically generated](Aspose.Words.4dee77f0-fe85-45cc-95b4-2374ebc6f666.006.png)
 
 - Restoring Database is Successful now.!
 
