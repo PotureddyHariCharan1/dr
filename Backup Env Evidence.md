@@ -12,7 +12,8 @@
   ![A screenshot of a computer Description automatically generated](Aspose.Words.4dee77f0-fe85-45cc-95b4-2374ebc6f666.001.png)
 
 - Screenshot of Automation backup script present in backup-s3upload.sh file.
-### note! this file is commited in s3 bucket so will be pulled to node environment freshly before running the script
+  
+ `  note! this file is commited in s3 bucket so will be pulled to node environment freshly before running the script. `
 
   ![A screenshot of a computer Description automatically generated](Screenshot.2024-02-09.181936.png)
 
@@ -31,7 +32,7 @@
 
 - For Restoring Existing postgres Backup Db need to create a New Empty Repository by logging to Postgres .
 
-  ![A screenshot of a computer Description automatically generated](Aspose.Words.4dee77f0-fe85-45cc-95b4-**2374ebc6f666**.004.png)
+  ![A screenshot of a computer Description automatically generated](Aspose.Words.4dee77f0-fe85-45cc-95b4-2374ebc6f666.004.png)
 
 - Copy the Taken backup file to location and Now Restore the existing postgres backup Db to newly created empty Repository.
 
